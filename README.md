@@ -1,4 +1,5 @@
-https://www.google.com/imgres?q=icc%20world%20cup%202024%20&imgurl=https%3A%2F%2Fimages.news18.com%2Fibnlive%2Fuploads%2F2024%2F06%2Findia-t20-world-cup-trophy-celebration-ap-2024-06-c21b16ae21f3b16a92545d4c9cd1e6fe-3x2.jpg%3Fimpolicy%3Dwebsite%26width%3D540%26height%3D360&imgrefurl=https%3A%2F%2Fwww.news18.com%2Fcricket%2Ficc-t20-world-cup%2F&docid=BUXzMZQUN81UrM&tbnid=KKYwVp5T2AlfqM&vet=12ahUKEwimw9us_o2HAxWHS2wGHa--B8kQM3oECF8QAA..i&w=540&h=360&hcb=2&ved=2ahUKEwimw9us_o2HAxWHS2wGHa--B8kQM3oECF8QAA
+ ![Alt Text](https://www.google.com/imgres?q=icc%20world%20cup%202024%20&imgurl=https%3A%2F%2Fimages.news18.com%2Fibnlive%2Fuploads%2F2024%2F06%2Findia-t20-world-cup-trophy-celebration-ap-2024-06-c21b16ae21f3b16a92545d4c9cd1e6fe-3x2.jpg%3Fimpolicy%3Dwebsite%26width%3D540%26height%3D360&imgrefurl=https%3A%2F%2Fwww.news18.com%2Fcricket%2Ficc-t20-world-cup%2F&docid=BUXzMZQUN81UrM&tbnid=KKYwVp5T2AlfqM&vet=12ahUKEwimw9us_o2HAxWHS2wGHa--B8kQM3oECF8QAA..i&w=540&h=360&hcb=2&ved=2ahUKEwimw9us_o2HAxWHS2wGHa--B8kQM3oECF8QAA)
+ 
 # Cricket-World-Cup-2024-ICC-Men-s-T20
 Crick World Cup 2024 ICC Men's T20
 This dataset contains detailed information about the matches played in the ICC Men's T20 World Cup. It includes the following columns:
